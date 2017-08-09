@@ -17,12 +17,13 @@ A simple Node.js + Materialize + Jade template project that is ready to deploy t
 - [ ] Node and npm Installation: https://www.npmjs.com/get-npm
 - [ ] Create Heroku Account: https://signup.heroku.com/dc
 - [ ] Download Heroku CLI: https://cli.heroku.com/
-- [ ] Download an IDE. Check out the recommended ones: 
+- [ ] Download an IDE. Check out the recommended ones:
     - Sublime Text 3: https://www.sublimetext.com/3
     - Visual Studio Code: https://code.visualstudio.com/
+    - Atom: https://atom.io/
 
 # Usage
-1. **Fork your repository** - Have 1 person from your team fork the repository so that you have a copy of the codebase you can freely modify without affecting the original: https://help.github.com/articles/fork-a-repo/. 
+1. **Fork your repository** - Have 1 person from your team fork the repository so that you have a copy of the codebase you can freely modify without affecting the original: https://help.github.com/articles/fork-a-repo/.
     - Note: A forked repository will look like https://github.com/[YOUR_USERNAME_HERE]/wow-simple-node-starter
 
 2. **Clone your repository** - Each team member will clone a copy of this forked repository onto their desktop to work on individually. That way, everyone can work on their project individually and eventually merge: https://help.github.com/articles/cloning-a-repository/
@@ -31,15 +32,18 @@ A simple Node.js + Materialize + Jade template project that is ready to deploy t
     - `cd wow-simple-node-starter`
 
 2. **Install** - Verify that you have the correct node version and then install the application. Verify your node version by entering `node -v`. Your node version should be *4.26* or above. Then do a `npm install` to install the app.
-  
+
 3. **Start the app** - Once it has finished installing, run the application by entering `node app`. Do a Ctrl+C if you ever want to stop the application.
 
 4. **View the app** - Open up your browser and go to http://localhost:3000. If you can view the app successfully, you're ready to make your own changes and go! Open up your text editor, open up the directory your repository is located, and start coding!     - Try experimenting with the values in the `views`, such as changing the text in `views/index.jade`
     - Don't worry too much about the other folders (`node_modules`, `bin`, `routes`) but don't delete them because they are necessary to deploy to Heroku.
     - Once you've made a change, simply hit save in your text editor. Go back to http://localhost:3000 and your change should be there. Happy coding!
-    
+
+5. **Build Something Awesome!** - Wow us with a full stack application that will engage users with incredible UX and Walmart's Open API. Here are a few helpful links that will familiarize you with the technologies in this starter:
+[Jade](http://learnjade.com/) + a helpful Jade to HTML [converter](http://html2jade.org/), [Node](https://www.nodebeginner.org/) + [Express](https://expressjs.com/en/guide/routing.html) + [Materialize](http://materializecss.com/).
+
 # Coding
-1. How to use GitHub add, commiting, branching, PRs?
+- Use [GitHub](https://github.com/) for adding, committing, branching, and creating PRs. Here is a [quick guide](https://guides.github.com/activities/hello-world/) and [useful tips](https://github.com/vasanthk/git-tips-and-tricks#squash-pr-commits-into-one) for development.
 - Get data, the [Walmart way](https://developer.walmartlabs.com/)
 - Don't get too deep into the coding and forget one of the biggest parts - presentation. If you are submitting a presentation powerpoint, please use Google Slides rather than a desktop powerpoint application. See below for Final Submission instructions and Judging Criteria.
 - Have fun!
@@ -81,7 +85,7 @@ Check out our job openings! Feel free to ask any of the @WalmartLabs volunteers 
 - [**Staff Frontend Tools Engineer**](https://careers.walmart.com/us/jobs/816064BR-staff-fe-tools-engineer-san-bruno-ca)
 - [**Staff Mobile Tools Engineer**](https://careers.walmart.com/us/jobs/844209BR-staff-mobile-tools-engineer-carlsbad-ca)
 - [**Principal Technical Project Manager**](https://careers.walmart.com/us/jobs/867179BR-principal-technical-project-manager-sunnyvale-ca)
- 
+
 # About
 This starter was inspired by the [Node.js Material Starter Template](https://github.com/primaryobjects/Node.js-Material-Starter-Template), but updated for Heroku deployment, Materialize + Express routes.
 Here is an [example app](https://wow-hackathon-example-app.herokuapp.com/) using this starter + the Walmart Open API. You `may need` this help chrome tool to view the data in this example app - [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en-US).
