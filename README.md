@@ -1,7 +1,7 @@
-@WalmartLabs Node.js Starter Template
+@WalmartLabs & MindTouch Hackathon Starter App & Info
 ===
 
-A simple Node.js + Materialize + Jade template project that is ready to deploy to Heroku. This application is optional to use, but please follow the final submission instructions for all applications.
+This document should contain all the information you need to get started. Feel free to use any programming language you feel most comfortable with, but this repository has an optional simple Node.js + Materialize + Jade template project that is ready to deploy to Heroku. If you or one of your team members is familiar with Node, AJAX, or HTML + CSS3, especially within in the context of creating a full stack application, try out our starter app. Please follow the final submission instructions for **all** applications.
 
 # Table of Contents
 - [Set-Up](#set-up)
@@ -24,12 +24,8 @@ A simple Node.js + Materialize + Jade template project that is ready to deploy t
 
 # Usage
 1. **Fork your repository** - Have 1 person from your team fork the repository so that you have a copy of the codebase you can freely modify without affecting the original: https://help.github.com/articles/fork-a-repo/.
-    - Note: A forked repository will look like https://github.com/[YOUR_USERNAME_HERE]/wow-simple-node-starter
 
 2. **Clone your repository** - Each team member will clone a copy of this forked repository onto their desktop to work on individually. That way, everyone can work on their project individually and eventually merge: https://help.github.com/articles/cloning-a-repository/
-    - Open up a terminal and navigate to the directory where you wanted your cloned directory (folder) to be made: https://www.codecademy.com/articles/command-line-commands
-    - `git clone https://github.com/[YOUR_USERNAME_HERE]/wow-simple-node-starter.git`
-    - `cd wow-simple-node-starter`
 
 2. **Install** - Verify that you have the correct node version and then install the application. Verify your node version by entering `node -v`. Your node version should be *4.26* or above. Then do a `npm install` to install the app.
 
@@ -44,8 +40,8 @@ A simple Node.js + Materialize + Jade template project that is ready to deploy t
 
 # Coding
 - Use [GitHub](https://github.com/) for adding, committing, branching, and creating PRs. Here is a [quick guide](https://guides.github.com/activities/hello-world/) and [useful tips](https://github.com/vasanthk/git-tips-and-tricks#squash-pr-commits-into-one) for development.
-- Get data, the [Walmart way](https://developer.walmartlabs.com/)
-- Don't get too deep into the coding and forget one of the biggest parts - presentation. If you are submitting a presentation powerpoint, please use Google Slides rather than a desktop powerpoint application. See below for Final Submission instructions and Judging Criteria.
+- Get data, the [Walmart way](https://developer.walmartlabs.com/).
+- Don't get too deep into the coding and forget one of the biggest parts - presentation. If you are submitting a presentation powerpoint, please use [Google Slides](https://docs.google.com/presentation/u/0/) rather than a desktop powerpoint application. See below for [Final Submission](#final-submission) and [Judging Criteria](#judging-criteria).
 - Have fun!
 
 # Final Submission
