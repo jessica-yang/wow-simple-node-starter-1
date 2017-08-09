@@ -1,4 +1,4 @@
-@WalmartLabs & MindTouch Hackathon Information
+@WalmartLabs & MindTouch Hackathon Starter App & Info
 ===
 
 This document should contain all the information you need to get started. Feel free to use any programming language you feel most comfortable with, but this repository has an optional simple Node.js + Materialize + Jade template project that is ready to deploy to Heroku. If you or one of your team members is familiar with Node, AJAX, or HTML + CSS3, especially within in the context of creating a full stack application, try out our starter app. Please follow the final submission instructions for **all** applications.
